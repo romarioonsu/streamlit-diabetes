@@ -1,0 +1,2 @@
+link deployment diabetes streamlit : 
+https://app-diabetes-qpcczc4f3y2upvryfzxw6z.streamlit.app/
